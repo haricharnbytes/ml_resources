@@ -1,8 +1,4 @@
 📚 Machine Learning, Deep Learning & Generative AI Resources
-
-A curated collection of high-quality resources for learning and mastering Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI).
-This repository aggregates books, research papers, articles, PDFs, tutorials, cheat sheets, and practical guides—from beginner to advanced levels.
-
 📌 Contents
 
 📖 Books
@@ -21,154 +17,31 @@ This repository aggregates books, research papers, articles, PDFs, tutorials, ch
 
 🔬 Practice & Projects
 
-🤖 Machine Learning
-📖 Books
-
-Pattern Recognition and Machine Learning – Christopher M. Bishop
-
-Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow – Aurélien Géron
-
-Machine Learning: A Probabilistic Perspective – Kevin P. Murphy
-
-📝 Articles & Blogs
-
-Introductory ML concepts
-
-Supervised vs Unsupervised learning
-
-Model evaluation & metrics
-
-Feature engineering techniques
-
-📄 Research Papers & PDFs
-
-Classic ML algorithms (SVMs, Decision Trees, k-NN)
-
-Optimization techniques
-
-Bias-variance tradeoff
-
-🧠 Cheat Sheets
-
-Scikit-learn cheat sheets
-
-ML algorithms comparison
-
-Evaluation metrics quick reference
-
-🧠 Deep Learning
-📖 Books
-
-Deep Learning – Ian Goodfellow, Yoshua Bengio, Aaron Courville
-
-Neural Networks and Deep Learning – Michael Nielsen
-
-Deep Learning with Python – François Chollet
-
-📝 Articles & Blogs
-
-Neural Networks fundamentals
-
-CNNs, RNNs, LSTMs, Transformers
-
-Backpropagation & optimization techniques
-
-📄 Research Papers & PDFs
-
-AlexNet, VGG, ResNet
-
-Attention mechanisms
-
-Transformers & self-attention
-
-🧠 Cheat Sheets
-
-TensorFlow & PyTorch quick references
-
-Activation functions summary
-
-Loss functions & optimizers
-
-🚀 Generative AI
-📖 Books
-
-Generative Deep Learning – David Foster
-
-Designing Machine Learning Systems – Chip Huyen
-
-📝 Articles & Blogs
-
-Large Language Models (LLMs)
-
-Prompt engineering techniques
-
-Fine-tuning & RLHF
-
-Diffusion models & GANs
-
-📄 Research Papers & PDFs
-
-GPT, BERT, T5
-
-Stable Diffusion
-
-DALL·E & image generation models
-
-🧠 Cheat Sheets
-
-Prompt engineering best practices
-
-LLM parameters & architectures
-
-Diffusion model workflows
-
-🎓 Courses & Tutorials
-
-Online courses (ML, DL, GenAI)
-
-YouTube playlists
-
-Hands-on notebooks
-
-End-to-end project walkthroughs
-
-🛠 Tools & Frameworks
-
-Machine Learning: Scikit-learn, XGBoost
-
-Deep Learning: TensorFlow, PyTorch, Keras
-
-Generative AI: Hugging Face, LangChain, OpenAI APIs
-
-Visualization: Matplotlib, Seaborn
-
-🔬 Practice & Projects
-
-Beginner to advanced ML projects
-
-Deep learning model implementations
-
-Generative AI applications (chatbots, image generators)
-
-Real-world datasets & use cases
-
 🤝 Contributing
 
-Contributions are welcome! 🎉
-If you’d like to add new resources:
+Contributions are welcome and appreciated! 🎉
+If you’d like to improve this repository, please follow these guidelines:
 
-Fork this repository
+Fork the repository
 
-Create a new branch
+Create a new branch for your changes
 
-Add your resources with proper categorization
+Add resources under the appropriate category
 
-Submit a pull request
+Ensure quality: resources should be accurate, relevant, and up to date
 
-Please ensure resources are:
+Provide proper references/links where applicable
 
-High quality
+Submit a pull request with a clear description of your changes
 
-Relevant
+Contribution Criteria
 
-Properly referenced
+All submitted resources should be:
+
+High quality and educational
+
+Relevant to Machine Learning, Deep Learning, or Generative AI
+
+Well-organized and clearly titled
+
+Thank you for helping make this resource better for the community! 🚀
