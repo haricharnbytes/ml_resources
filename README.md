@@ -1,47 +1,47 @@
-📚 Machine Learning, Deep Learning & Generative AI Resources
-📌 Contents
+Machine Learning, Deep Learning & Generative AI Resources
+Contents
 
-📖 Books
+-> Books
 
-📝 Articles & Blogs
+-> Articles and Blogs
 
-📄 Research Papers & PDFs
+-> Research Papers and PDFs
 
-🧠 Cheat Sheets & Notes
+-> Cheat Sheets and Notes
 
-🎓 Courses & Tutorials
+-> Courses and Tutorials
 
-🛠 Tools & Frameworks
+-> Tools and Frameworks
 
-🚀 Generative AI Resources
+-> Generative AI Resources
 
-🔬 Practice & Projects
+-> Practice and Projects
 
-🤝 Contributing
 
-Contributions are welcome and appreciated! 🎉
-If you’d like to improve this repository, please follow these guidelines:
+Contributing
 
-Fork the repository
+Contributions are welcome and appreciated. If you would like to improve this repository, please follow the guidelines below:
 
-Create a new branch for your changes
+-> Fork the repository
 
-Add resources under the appropriate category
+-> Create a new branch for your changes
 
-Ensure quality: resources should be accurate, relevant, and up to date
+-> Add resources under the appropriate category
 
-Provide proper references/links where applicable
+-> Ensure quality — resources should be accurate, relevant, and up to date
 
-Submit a pull request with a clear description of your changes
+-> Provide proper references or links where applicable
+
+-> Submit a pull request with a clear and concise description of your changes
 
 Contribution Criteria
 
-All submitted resources should be:
+-> All submitted resources should meet the following standards:
 
-High quality and educational
+-> High quality and educational value
 
-Relevant to Machine Learning, Deep Learning, or Generative AI
+-> Relevant to Machine Learning, Deep Learning, or Generative AI
 
-Well-organized and clearly titled
+-> Well organized and clearly titled
 
-Thank you for helping make this resource better for the community! 🚀
+Thank you for helping improve this repository and supporting the learning community.
