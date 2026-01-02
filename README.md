@@ -1,47 +1,38 @@
-Machine Learning, Deep Learning & Generative AI Resources
-Contents
+# Collection of Machine Learning, Deep Learning & Generative AI Resources
 
--> Books
+A curated list of high-quality resources to learn, practice, and master Machine Learning, Deep Learning, and Generative AI.
 
--> Articles and Blogs
+---
 
--> Research Papers and PDFs
+## Learning Resources
 
--> Cheat Sheets and Notes
+### Books
+Comprehensive books covering theory, fundamentals, and advanced concepts.
 
--> Courses and Tutorials
+### Articles & Blogs
+Insightful articles and blogs from industry experts and researchers.
 
--> Tools and Frameworks
+### Research Papers & PDFs
+Seminal and cutting-edge research papers for in-depth understanding.
 
--> Generative AI Resources
+### Cheat Sheets & Notes
+Quick references, summaries, and revision-friendly materials.
 
--> Practice and Projects
+---
+
+## Skill Development
+
+### Courses & Tutorials
+Structured courses, video tutorials, and hands-on learning paths.
+
+### Tools & Frameworks
+Popular libraries, frameworks, and platforms used in real-world applications.
+
+### Generative AI Resources
+Resources focused on large language models, diffusion models, prompt engineering, and more.
+
+### Practice & Projects
+Hands-on exercises, datasets, and project ideas to apply your knowledge.
 
 
-Contributing
-
-Contributions are welcome and appreciated. If you would like to improve this repository, please follow the guidelines below:
-
--> Fork the repository
-
--> Create a new branch for your changes
-
--> Add resources under the appropriate category
-
--> Ensure quality — resources should be accurate, relevant, and up to date
-
--> Provide proper references or links where applicable
-
--> Submit a pull request with a clear and concise description of your changes
-
-Contribution Criteria
-
--> All submitted resources should meet the following standards:
-
--> High quality and educational value
-
--> Relevant to Machine Learning, Deep Learning, or Generative AI
-
--> Well organized and clearly titled
-
-Thank you for helping improve this repository and supporting the learning community.
+Disclaimer: All resources referenced here are publicly available on the internet. All copyrights and intellectual property rights belong to their respective original authors and owners.
